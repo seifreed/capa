@@ -14,8 +14,8 @@ Special thanks to FireEye and their FLARE team to create and maintain Capa free 
 
 > Agent Tesla
 
-[Malpedia]https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla)
-[Bazaar]https://bazaar.abuse.ch/browse/signature/AgentTesla/)
+https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla
+https://bazaar.abuse.ch/browse/signature/AgentTesla/
 
 
 
