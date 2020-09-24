@@ -10,14 +10,6 @@ I'll be adding new malware families for if someday is needed to use them in an a
 
 Special thanks to FireEye and their FLARE team to create and maintain Capa free of charge for the community
 
-## Malware families covered
-
-> Agent Tesla
-
-https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla
-
-https://bazaar.abuse.ch/browse/signature/AgentTesla/
-
 
 
 
